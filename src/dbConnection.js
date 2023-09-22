@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 
-const MONGO_URL ="mongodb://127.0.0.1:27017/sms";
+const MONGO_URL ="mongodb+srv://a6el:60isVkAfVDJNhl7B@sage.8jrilu0.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp";
 
 const ConnectDb = async () => {
   /**
